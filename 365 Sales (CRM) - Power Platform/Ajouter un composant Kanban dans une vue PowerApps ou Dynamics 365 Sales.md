@@ -112,68 +112,72 @@ L'objectif est de les présenter sous forme de KanBan.
 
 #### Etape 19 : Puis dans le bandeau supérieur, choisir "Paramètres" puis l'option "Solutions". Sélectionner votre solution (la mienne ici est Mylife365)
 
-![273407791-5b62b9f8-e347-4be6-97f6-83fb129b7395](https://github.com/user-attachments/assets/3cb85614-c6d9-4adc-9808-84b7b4f9f579)
+
 
 
 #### Etape 20 : Double cliquer sur "Activités et Tâches" dans les entités de la solution. Puis choisir l'onglet "Contrôles". Choisir ensuite l'option "Ajouter un contrôle".
+![273407791-5b62b9f8-e347-4be6-97f6-83fb129b7395](https://github.com/user-attachments/assets/3cb85614-c6d9-4adc-9808-84b7b4f9f579)
 
-![273407860-0b4c573c-4962-430e-a7dd-9f957109dccb](https://github.com/user-attachments/assets/93c7b7a3-dd7a-427e-8152-566d7c851185)
 
 
 #### Etape 21 : Sélectionner ensuite dans la liste le contrôle standard "Kanban" puis cliquer sur le bouton "Ajouter"
+![273407860-0b4c573c-4962-430e-a7dd-9f957109dccb](https://github.com/user-attachments/assets/93c7b7a3-dd7a-427e-8152-566d7c851185)
 
-![273407926-f7c1654e-7d8e-4144-8ba5-070f12801599](https://github.com/user-attachments/assets/3639fad8-e862-4f5b-93d9-4a93b016a3eb)
 
 
 #### Etape 22 : Nous allons activer cette interface seulement pour web et tablette. Sur le téléphone, cela serait moins ergonomique surtout pour déplacer des enregistrements de case en case :) 
 Si vous activez ce contrôle sur l'entité, toutes les vues auront ce contrôle par défaut. Si vous souhaitez qu'une vue spécifique est une vue Kanban est pas les autres, allez à l'étape suivante 23.
+![273407926-f7c1654e-7d8e-4144-8ba5-070f12801599](https://github.com/user-attachments/assets/3639fad8-e862-4f5b-93d9-4a93b016a3eb)
 
-![273408012-c3a9cf40-ed6b-4e6b-9ed9-a7444a095762](https://github.com/user-attachments/assets/004a21a5-4b9c-4a7c-9bdf-a6dcbdc9995c)
 
 
 #### Etape 23 : On va faire la même chose mais au lieu de l'entité, on va choisir une vue spécifique existante pour appliquer la vue Kanban :)
+![273408012-c3a9cf40-ed6b-4e6b-9ed9-a7444a095762](https://github.com/user-attachments/assets/004a21a5-4b9c-4a7c-9bdf-a6dcbdc9995c)
 
-![273408104-b0043509-a8f3-4e4e-9fa8-9d0e089b8e14](https://github.com/user-attachments/assets/26ff36eb-01dd-4f8b-a6bc-bbc6fe678c9f)
 
 
 #### Etape 24 : On va configurer la vue par défaut "toutes les activités et tâches". Pour cela, double cliquer sur la vue pour obtenir l'écran suivant.
 Cliquez ensuite dans la section "Tâches courantes" sur l'option "Contrôles personnalisés".
+![273408104-b0043509-a8f3-4e4e-9fa8-9d0e089b8e14](https://github.com/user-attachments/assets/26ff36eb-01dd-4f8b-a6bc-bbc6fe678c9f)
 
-![273408870-88110ec2-70d4-4395-8c95-874c09ff35a7](https://github.com/user-attachments/assets/6385911e-625f-4ffa-ab4b-e2caa337f711)
 
 
 #### Etape 25 : De la même façon que pour la table "Activités et tâches", ajouter le contrôle Kanban (voir étape 21)
 Comme pour la table, on va juste avoir une vue Kanban en web et tablette. On n'active pas ce composant sur le mobile / téléphone.
+![273408870-88110ec2-70d4-4395-8c95-874c09ff35a7](https://github.com/user-attachments/assets/6385911e-625f-4ffa-ab4b-e2caa337f711)
 ![273408970-1dae120f-aee3-4b67-b9b5-0c483de32d1d](https://github.com/user-attachments/assets/1efed2b2-707a-478e-aed4-a04930d4a102)
 ![273408972-baf565b7-db20-4f6e-aa42-de70c25282bd](https://github.com/user-attachments/assets/7aba7c32-3136-4176-a859-5d749b4cb9bd)
-![273409037-1fcf1abe-06fa-4dc7-ac4b-27ac1375b9a0](https://github.com/user-attachments/assets/e1b8ce81-8824-4f93-8571-d7773e8c51da)
+
 
 
 
 #### Etape 26 : Une fois fais, on clique sur "Enregistrer et Fermer"
+![273409037-1fcf1abe-06fa-4dc7-ac4b-27ac1375b9a0](https://github.com/user-attachments/assets/e1b8ce81-8824-4f93-8571-d7773e8c51da)
 
-![273409067-b5487914-7fa7-40d3-9fbb-be1583ef04ab](https://github.com/user-attachments/assets/836d6fd4-0131-4674-b3de-8b3ef0886e60)
 
 
 #### Etape 27 : Ne pas oublier de Publier toutes les personnalisations :)
-![273409071-35f4d317-a6c9-4567-9cda-bbe0f997ec63](https://github.com/user-attachments/assets/db807341-e137-46ab-aa5d-a4faf009e909)
+![273409067-b5487914-7fa7-40d3-9fbb-be1583ef04ab](https://github.com/user-attachments/assets/836d6fd4-0131-4674-b3de-8b3ef0886e60)
+
 
 
 #### Etape 28 : Maintenant on retourne dans notre environnement de développement dans l'application. On rafraichit la page en actualisant ou en faisant F5. Maintenant lorsqu'on clique sur le menu de gauche "Activités et Tâches", notre vue Kanban s'affiche par miracle :)
-![273409173-0a36d300-0321-4fd1-87bb-42874d152b9a](https://github.com/user-attachments/assets/ac3b462b-f6d3-46d4-a736-7d5ce2928d24)
+![273409071-35f4d317-a6c9-4567-9cda-bbe0f997ec63](https://github.com/user-attachments/assets/db807341-e137-46ab-aa5d-a4faf009e909)
+
 
 
 
 #### Etape 29 : On va tester la vue. On prend l'activité "Faire tutoriel sur Kanban" et on la glisse vers la colonne "Terminé". Un écran s'affiche pour confirmer le changement de statut ! On clique sur le bouton "Fermer Activités et Tâches" et l'activité est bien déplacée.
-![273409221-743c2e2f-dfa7-46c7-a311-d2ede54fcfa7](https://github.com/user-attachments/assets/8e6b8368-369f-4ba9-bdd3-91475f52872a)
+![273409173-0a36d300-0321-4fd1-87bb-42874d152b9a](https://github.com/user-attachments/assets/ac3b462b-f6d3-46d4-a736-7d5ce2928d24)
+
 
 
 
 #### Etape 30 : On peut filtrer après sur ce que l'on veut comme la date d'échéance. Ici j'affiche les activités à venir des 7 prochains jours.
 On peut ajuster certains éléments du Kanban lorsque nous sommes dans la définition de la vue au niveau du contrôle.
-
+![273409221-743c2e2f-dfa7-46c7-a311-d2ede54fcfa7](https://github.com/user-attachments/assets/8e6b8368-369f-4ba9-bdd3-91475f52872a)
 
 
 > Comme d'habitude, Si vous avez des questions ou un projet, vous pouvez me contacter sur [Linkedin](https://www.linkedin.com/in/dominiquedelaire/)
-> Notre équipe sénior d'une vingtaine de consultants est là pour vous aider !
+> Notre équipe sénior en IA et Dynamics d'une dizaine de consultants est là pour vous aider !
 > Dominique
