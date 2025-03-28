@@ -15,4 +15,5 @@ Thanks for your comments ! Dominique
 # Summary :
 
 - Dynamics 365 Business Central
-  - [Install Extension automatically via PowerShell](https://github.com/dominiquedelaire/TipsDynamics365/blob/main/365%20Business%20Central%20(ERP)/Install_extension.ps1)
+  - [Install automatically Extension BC from Powershell](https://github.com/dominiquedelaire/tipsDynamics365andPowerPlatform/blob/main/365%20Business%20Central%20(ERP)/install_extension.ps1)
+    
