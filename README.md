@@ -16,6 +16,7 @@ Merci pour tous vos commentaires positifs ! Dominique
 
 - **Dynamics 365 Business Central**
   - [Installer automatiquement via powershell une extension .app Business Central](https://github.com/dominiquedelaire/tipsDynamics365andPowerPlatform/blob/main/365%20Business%20Central%20(ERP)/install_extension.ps1)
+  - [Installer automatiquement via Python une extension .app Business Central](https://github.com/dominiquedelaire/tipsDynamics365andPowerPlatform/blob/main/365%20Business%20Central%20(ERP)/install_extension.py)
 - **Dynamics 365 Sales ou Power Apps model driven**
   - [Ajouter un composant KanBan à une vue PowerApp ou Dynamics 365 Sales](https://github.com/dominiquedelaire/tipsDynamics365andPowerPlatform/blob/main/365%20Sales%20(CRM)%20-%20Power%20Platform/Ajouter%20un%20composant%20Kanban%20dans%20une%20vue%20PowerApps%20ou%20Dynamics%20365%20Sales.md)
     
