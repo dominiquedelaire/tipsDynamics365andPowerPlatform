@@ -111,6 +111,7 @@ L'objectif est de les présenter sous forme de KanBan.
 
 
 #### Etape 19 : Puis dans le bandeau supérieur, choisir "Paramètres" puis l'option "Solutions". Sélectionner votre solution (la mienne ici est Mylife365)
+![273407645-a5c31d11-8b19-4b4b-9dcf-c1003cf22e28](https://github.com/user-attachments/assets/98658964-cc40-474b-8cd4-436042f88e5d)
 
 
 
