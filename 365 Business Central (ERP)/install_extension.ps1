@@ -1,4 +1,4 @@
-# Première chose à faire, obtenir un token (vous devez créer une app registration avant)
+# Première chose à faire, obtenir un token (vous devez créer une app registration avant sur Azure)
  $tenantId = "xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxx"
  $clientId = "6485668-4301-5cb9-c40d-xxxxxxxxxxxxx"
  $clientSecret = "--.9G~SimYD7L6NAFE12IuGwioPNEOgP8f5U4b63"
