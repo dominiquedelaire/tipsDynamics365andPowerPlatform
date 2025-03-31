@@ -8,7 +8,7 @@ Merci pour tous vos commentaires positifs ! Dominique
 **Expériences sur les produits Microsoft Dynamics :**   
 - Avant Microsoft !
   - 1995-2003 : Navision 2.0 et Axapta (Fonctionnel et technique)
--Après l'acquisition par Microsoft :
+- Après l'acquisition par Microsoft :
   - 2003-2015 : Dynamics NAV, Dynamics AX, Dynamics CRM, Dynamics CRM Online 2015-2016
   - Après 2015 : Dynamics 365 Business Central, Dynamics 365 Financials and Operations, Dynamics 365 Sales, PowerApps Model driven, Azure logic apps, Copilot Studio, ...
 
